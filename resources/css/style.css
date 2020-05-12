@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    color: white;
     text-align: center;
 }
 
@@ -11,6 +10,27 @@ a {
 
 h1 {
     font-family: verdana;
+    text-align: center;
+    color: white;
 }
 
-#1 {}
+#unu {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+#doi {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#trei {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+#copy {
+    text-align: right;
+    color: grey;
+}
